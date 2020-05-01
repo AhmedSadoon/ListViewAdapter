@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Top 10 Movies</string>
+
+    <string-array name="movie_titles">
+        <item>F1</item>
+        <item>F2</item>
+        <item>F3</item>
+        <item>F4</item>
+        <item>F5</item>
+        <item>F6</item>
+        <item>F7</item>
+    </string-array>
+
+    <string-array name="movies_ratings">
+        <item>Rating: 7.4/10</item>
+        <item>Rating: 4.1/10</item>
+        <item>Rating: 5.6/10</item>
+        <item>Rating: 8.8/10</item>
+        <item>Rating: 9.2/10</item>
+        <item>Rating: 3.1/10</item>
+        <item>Rating: 6.9/10</item>
+    </string-array>
+</resources>
